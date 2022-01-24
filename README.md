@@ -1,5 +1,7 @@
 # pythonprojects
 Tip Calculator - Calculating Tip When at Restaurant
+
+
 #Example Showing Output when User runs the code
 
 
