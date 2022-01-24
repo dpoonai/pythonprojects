@@ -36,3 +36,8 @@ Password Generator Application - Generates a randomly generated password based o
 
 
 
+![Password Generator](https://user-images.githubusercontent.com/98291128/150848544-dc6dd77b-32f8-45e8-b96d-b5d9bd21b801.PNG)
+
+
+
+
