@@ -32,5 +32,7 @@ Rock Paper Scissors Applications - User will play 'Rock Paper Scissors' game aga
 
 ![Rock Paper Scissors Screenshot #2](https://user-images.githubusercontent.com/98291128/150834812-e3910dbb-f79b-4b05-821f-d7ec68563c0d.PNG)
 
+Password Generator Application - Generates a randomly generated password based on pre-defined lists of numbers, symbols and letters 
+
 
 
