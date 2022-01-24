@@ -1,4 +1,4 @@
 # pythonprojects
-Tip Calculator
+Tip Calculator - Calculating Tip When at Restaurant
 
-#Example of output when running code: 
+
