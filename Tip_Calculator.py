@@ -10,11 +10,3 @@ bill_per_person = total_bill / people
 final_bill_amount = round(bill_per_person, 3)
 final_bill_amount = "{:.3f}".format(bill_per_person)
 print(f"Each person will pay final amount: ${final_bill_amount}")
-
-
-
-
-
-
-![Tip_Calculator Screenshot](https://user-images.githubusercontent.com/98291128/150799348-c06dd6ed-5ce6-483c-8574-5b1bbf942d35.PNG)
-
